@@ -40,4 +40,24 @@
             Console.ReadKey();
         }
     }
+
+    class user
+    {
+
+    }
+
+    class student
+    {
+
+    }
+
+    class user1
+    {
+
+    }
+
+    class student1
+    {
+    
+    }
 }
